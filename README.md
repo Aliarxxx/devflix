@@ -1,0 +1,3 @@
+O DevFlix é um projeto básico de página de filmes, desenvolvido utilizando apenas HTML e CSS. O objetivo deste projeto é mostrar meu progresso e aprendizado nas tecnologias de Front-end.
+A página exibe quatro cartazes de filmes e conta com uma barra de navegação simples, proporcionando uma navegação prática entre as seções do site. Embora o design e a funcionalidade sejam básicos, o projeto serve como uma base para futuras melhorias, à medida que vou aprimorando minhas habilidades.
+O DevFlix é uma excelente maneira de mostrar meus primeiros passos no desenvolvimento web e um exemplo de como criar uma interface simples e funcional com HTML e CSS.
